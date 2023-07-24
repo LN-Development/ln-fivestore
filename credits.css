@@ -1,0 +1,78 @@
+#back{
+    background: radial-gradient(ellipse at center, rgb(63, 63, 63) 0%, rgb(255, 255, 255) 100%);
+}
+
+#logojl{ /*Logo*/
+    display: flex;
+    padding-left: 900px;
+}
+#mainHeader{  /*Caixa da logo*/
+    display: flex;
+    width: 1900px;
+    background: radial-gradient(ellipse at center, rgba(29, 29, 29, 0.999) 27%, rgba(22, 22, 22, 0.999) 100%);
+    border: 2px solid color rgb(48, 47, 47);
+    border-radius: 8px;
+    margin-left:2px;
+    box-shadow: 0px 0px 5px 5px rgba(41, 41, 41, 0.479);
+    
+    margin-bottom: 15px;
+    font-family: Arial Black;
+}
+
+#menuOptions{ /*Barra de seleção*/
+    background: radial-gradient(ellipse at center, rgb(31, 31, 31) 27%, rgb(26, 26, 26) 100%);
+    display: flex;
+    border: 2px solid color rgb(48, 47, 47);
+    border-radius: 5px;
+    margin-left:2px;
+    margin-top: 35px;
+    margin-bottom: 45px;
+    height: 160px;
+    width: 340px;
+    margin-left:2px;
+    box-shadow: 0px 0px 2px 2px rgba(41, 41, 41, 0.479);
+
+    
+    
+}
+
+#menuOptions2{ /*Barra de seleção*/
+   
+    
+
+    margin-left:2px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    height: 160px;
+    width: 220px;
+    margin-left:2px;
+
+    
+    
+}
+#mainTitle{
+    color: black;
+
+    display: flex;
+    padding-left: 20px;
+    padding-top: 35px ;
+    font-size: 60px;
+   
+    
+}
+.buttonMenuOptions{
+    display: flex;
+    font-size: 20px;
+    font-family: Monospace;
+    font-weight: bold;
+    text-decoration: none;
+    margin-top: -9px;
+    margin-bottom: -5px;
+    white-space: pre-wrap;
+    padding-top: 19px;
+    padding-left: 20px;
+    
+    color: rgb(235, 235, 235);
+}
+
+
